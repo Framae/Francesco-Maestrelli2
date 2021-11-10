@@ -1,0 +1,92 @@
+body{
+  background-image: url(photochallenge.jpg);
+}
+.superQ{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  width: 1500px;
+  height: 1200px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 3%
+}
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  align-items: center;
+}
+.color {
+  color: lime;
+  text-align: center;
+  font-size: 50px;
+}
+.quadrato {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: lime;
+}
+button {
+  font-size: 20px;
+}
+input[type=checkbox] {
+  transform: scale(2);
+}
+input {
+  display: inline-block;
+  margin-top: 75px;
+  margin-left: 15%;
+}
+span {
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  width: 50%;
+}
+
+.first {
+  width: 30%;
+  margin: auto;
+  height: 40px;
+  background-color: yellow;
+  margin-top: 40px;
+  margin-left: 15%;
+  border-radius: 15%;
+}
+.second {
+  width: 60%;
+  margin: auto;
+  height: 40px;
+  background-color: orange;
+  margin-top: 40px;
+  margin-left: 15%;
+  border-radius: 15%;
+}
+  .third {
+    width: 20%;
+    margin: auto;
+    height: 40px;
+    background-color: red;
+    margin-top: 40px;
+    margin-left: 15%;
+    border-radius: 15%;
+  }
+.via {
+  font-size: 30px;
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 15%;
+}
+.carica {
+  font-size: 30px;
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 15%;
+}
